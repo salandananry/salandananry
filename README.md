@@ -1,4 +1,13 @@
-## Hi there 👋
+# Personal Works
+# Professional Works
+### **Blamorama Games [Sep 2024 - Dec 2025]**
+#### Unity Game Developer
+- Sliding into Lulea
+  > [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) | [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508)
+- Bumi Cosmic Colours
+  > [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette) | [**App Store**](https://apps.apple.com/se/app/bumi-cosmic-colors/id6746274367)
+
+
 
 <!--
 **salandananry/salandananry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

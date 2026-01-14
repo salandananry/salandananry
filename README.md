@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="./Assets/raphael.gif"/>
+  <img src="./Assets/GitHub Banners - salandananry.gif"/>
+</p>
+<p align="center">
+  <img src="./Assets/GitHub Banner - Personal.png"/>
 </p>
 
-
-# Personal Works
-
 ### [**Unity Translation Kit**](https://github.com/salandananry/unity-translation-kit)
-# Professional Works
+
+<p align="center">
+  <img src="./Assets/GitHub Banner - Professional.png"/>
+</p>
+
 ### **Blamorama Games [Sep 2024 - Dec 2025]**
 #### Unity Game Developer
 - Sliding into Lulea

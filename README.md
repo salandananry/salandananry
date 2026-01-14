@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/IXnnnVD5kyKqXRhaCR/giphy.gif" width="400" />
+<p align="center">
+  <img src="./Assets/raphael.gif"/>
+</p>
+
 
 # Personal Works
 

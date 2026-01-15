@@ -1,25 +1,16 @@
 <p align="center">
   <img src="./Assets/GitHub Banners - salandananry.gif"/>
 </p>
-<p align="center">
-  <img src="./Assets/GitHub Banner - Personal.png"/>
-</p>
 
+# **RECENT WORKS**
+## 2026
 ### [**Unity Translation Kit**](https://github.com/salandananry/unity-translation-kit)
 
-<p align="center">
-  <img src="./Assets/GitHub Banner - Professional.png"/>
-</p>
-
-### **Blamorama Games [Sep 2024 - Dec 2025]**
-#### Unity Game Developer
-- Sliding into Lulea
-  > [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) | [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508)
-- Bumi Cosmic Colours
-  > [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette) | [**App Store**](https://apps.apple.com/se/app/bumi-cosmic-colors/id6746274367)
-
-
-
+## 2024-2025
+### **Sliding into Lulea** ( [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) | [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) )
+  > Unity Game Developer — Blamorama Games (Consultant)
+### **Bumi Cosmic Colours** ( [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) | [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) )
+  > Unity Game Developer — Blamorama Games (Intern → Consultant)
 <!--
 **salandananry/salandananry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

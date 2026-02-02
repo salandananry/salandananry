@@ -14,10 +14,11 @@
 
 📂 Portfolio:
 - 🐙 GitHub: https://github.com/salandananry
-- 🎮 itch.io: https://https://salandananry.itch.io/
+- 🎮 itch.io: https://salandananry.itch.io/
 
 📫 How to reach me:
 - 💬 Discord: `salandananry`
+
 
 <!--
 **salandananry/salandananry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,8 +13,8 @@
   > Unity Game Developer — Blamorama Games (Intern → Consultant)
 
 📂 Portfolio:
-- 🐙 GitHub: https://github.com/salandananry
-- 🎮 itch.io: https://salandananry.itch.io/
+- 🐙 [GitHub](https://github.com/salandananry)
+- 🎮 [Itch.io](https://salandananry.itch.io/)
 
 📫 How to reach me:
 - 💬 Discord: `salandananry`

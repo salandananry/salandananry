@@ -6,11 +6,16 @@
 ## 2026
 ### 📦 [**Unity Translation Kit**](https://github.com/salandananry/unity-translation-kit) - A Unity package that provides a robust translation system for Unity games.
 
-## 2024-2025
-### **Sliding into Lulea** ( [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) | [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) )
+## 2025
+### 🎮 **Sliding into Lulea**
   > Unity Game Developer — Blamorama Games (Consultant)
-### **Bumi Cosmic Colours** ( [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) | [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) )
+
+🔗 [ [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) ] [ [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) ]
+
+### 🎮 **Bumi Cosmic Colours**
   > Unity Game Developer — Blamorama Games (Intern → Consultant)
+
+🔗 [ [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
 
 📂 Portfolio:
 - 🐙 [GitHub](https://github.com/salandananry)

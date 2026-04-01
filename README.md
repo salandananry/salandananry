@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/GitHub Banners.png"/>
+  <img src="./Assets/GitHub Banner - salandananry.png"/>
 </p>
 
 # **RECENT WORKS**

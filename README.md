@@ -10,12 +10,12 @@
 ### 🎮 **Sliding into Lulea**
   > Unity Game Developer — Blamorama Games (Consultant)
 
-🔗 [ [**Play Store**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) ] [ [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) ]
+🔗 [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) ] [ [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) ]
 
 ### 🎮 **Bumi Cosmic Colours**
   > Unity Game Developer — Blamorama Games (Intern → Consultant)
 
-🔗 [ [**Play Store**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
+🔗 [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
 
 📂 Portfolio:
 - 🐙 [GitHub](https://github.com/salandananry)

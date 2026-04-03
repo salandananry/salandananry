@@ -19,4 +19,4 @@
 - [Itch.io](https://salandananry.itch.io/)
 
 ## Contact
-- 💬 Discord: <code>**salandananry**</code>
+- 💬 Discord: **`salandananry`**

@@ -4,35 +4,19 @@
 
 # RECENT WORKS
 ## **2026**
-### 🎮 **Unreleased Game** [ *Coming soon on Steam*]
-  > `Unity Developer (Generalist) — Pinnacle Studio (Consultant)`
+### 🎮 **Unreleased Game** [*Coming soon on Steam*]
+  > **`Unity Developer (Generalist) — Pinnacle Studio (Consultant)`**
 ### 📦 [**Unity Translation Kit**](https://github.com/salandananry/unity-translation-kit) - A Unity package that provides a robust translation system for Unity games.
 
 ## 2025
 ### 🎮 **Sliding into Lulea** [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) ] [ [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) ]
-  > `Game Programmer — Blamorama Games (Consultant)`
+  > **`Game Programmer — Blamorama Games (Consultant)`**
 
 ### 🎮 **Bumi Cosmic Colours** [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
-  > `Game Programmer — Blamorama Games (Intern → Consultant)`
+  > **`Game Programmer — Blamorama Games (Intern → Consultant)`**
 ##
 ## Links
 - [Itch.io](https://salandananry.itch.io/)
 
-## How to reach me
-- 💬 Discord: `salandananry`
-
-
-<!--
-**salandananry/salandananry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 💬 Discord: <code>**salandananry**</code>

@@ -16,7 +16,8 @@
   > **`Game Programmer — Blamorama Games (Intern → Consultant)`**
 ##
 ## Links
-- [Itch.io](https://salandananry.itch.io/)
+- [Itch.io](https://salandananry.itch.io/) • [LinkedIn](www.linkedin.com/in/salandananry)
 
-## Contact
+## Contacts
+- 📧 Email: **`salandananry@gmail.com`**
 - 💬 Discord: **`salandananry`**

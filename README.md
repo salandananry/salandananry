@@ -4,7 +4,7 @@
 
 # RECENT WORKS
 ## **2026**
-### 🎮 **Unreleased Game** [*Coming soon on Steam*]
+### 🎮 **Empeti - Quest for the Pinnacle** [ [**Steam**](https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/) ]
   > **`Unity Developer (Generalist) — Pinnacle Studio (Consultant)`**
 ### 📦 [**Unity Translation Kit**](https://github.com/salandananry/unity-translation-kit) - A Unity package that provides a robust translation system for Unity games.
 

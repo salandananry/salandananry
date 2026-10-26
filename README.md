@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="GitHub Banner - salandananry.png"/>
-</p>
-
 # RECENT WORKS
 ## **2026**
 ### 🎮 **Hearts of Soil** [ [**Itch.io**](https://salandananry.itch.io/hearts-of-soil) ]

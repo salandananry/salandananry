@@ -16,7 +16,7 @@
 ## Contacts
 Feel free to message me for inquiries and opportunities
 - 📧 Email: **`salandananry@gmail.com`**
-- 💬 Discord: [salandananry](https://discord.com/users/1411989316426793020@blank)
-- 💼 LinkedIn: [salandananry](https://www.linkedin.com/in/salandananry/@blank)
+- 💬 Discord: [salandananry](https://discord.com/users/1411989316426793020)
+- 💼 LinkedIn: [salandananry](https://www.linkedin.com/in/salandananry/)
 ##
-[carrd](https://salandananry.carrd.co/@blank) • [Itch.io](https://salandananry.itch.io/@blank) • [GitHub](https://github.com/salandananry@blank) `(You are here)`
+[carrd](https://salandananry.carrd.co/) • [Itch.io](https://salandananry.itch.io/) • [GitHub](https://github.com/salandananry) `(You are here)`

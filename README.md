@@ -13,9 +13,10 @@
 ### 🎮 **Bumi Cosmic Colours** [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
   > **`Game Programmer — Blamorama Games (Intern → Consultant)`**
 ##
-## Links
-- [Itch.io](https://salandananry.itch.io/) • [LinkedIn](www.linkedin.com/in/salandananry)
-
 ## Contacts
+Feel free to message me for inquiries and opportunities
 - 📧 Email: **`salandananry@gmail.com`**
-- 💬 Discord: **`salandananry`**
+- 💬 Discord: [salandananry](https://discord.com/users/1411989316426793020)
+- 💼 LinkedIn: [salandananry](https://www.linkedin.com/in/salandananry/)
+##
+[carrd](https://salandananry.carrd.co/) • [Itch.io](https://salandananry.itch.io/) • [GitHub](https://github.com/salandananry) `(You are here)`

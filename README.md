@@ -3,15 +3,15 @@
 ### 🎮 **Hearts of Soil** [ [**Itch.io**](https://salandananry.itch.io/hearts-of-soil) ]
   > **`Simple isometric farming game - Personal Project.`**
 ### 🎮 **Empeti - Quest for the Pinnacle** [ [**Steam**](https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/) ]
-  > **`Unity Developer (Generalist) — Pinnacle Studio (Consultant)`**
+  > **`Unity Developer (Generalist) — Pinnacle Studio`**
 ### 📦 **Unity Translation Kit** - [ [**Documentation**](https://github.com/salandananry/unity-translation-kit) ] [ [**Download (GitHub)**](https://github.com/salandananry/unity-translation-kit/releases) ] [ [**Download (Itch.io)**](https://salandananry.itch.io/unity-translation-kit) ]
   > **`An Editor-based translation tool for Unity games - Personal Project.`**
 ## 2025
 ### 🎮 **Sliding into Lulea** [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamorama.sliding) ] [ [**App Store**](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508) ]
-  > **`Game Programmer — Blamorama Games (Consultant)`**
+  > **`Game Programmer — Blamorama Games`**
 
 ### 🎮 **Bumi Cosmic Colours** [ [**Google Play**](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) ] [ [**App Store**](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367) ]
-  > **`Game Programmer — Blamorama Games (Intern → Consultant)`**
+  > **`Game Programmer Intern — Blamorama Games`**
 ##
 ## Contacts
 Feel free to message me for inquiries and opportunities

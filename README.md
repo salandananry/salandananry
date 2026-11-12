@@ -19,4 +19,4 @@ Feel free to message me for inquiries and opportunities
 - 💬 Discord: [salandananry](https://discord.com/users/1411989316426793020)
 - 💼 LinkedIn: [salandananry](https://www.linkedin.com/in/salandananry/)
 ##
-[carrd](https://salandananry.carrd.co/) • [Itch.io](https://salandananry.itch.io/) • [GitHub](https://github.com/salandananry) `(You are here)`
+[Carrd](https://salandananry.carrd.co/) • [Itch.io](https://salandananry.itch.io/) • [GitHub](https://github.com/salandananry) `(You are here)`

@@ -5,7 +5,6 @@
   Hi, I'm Raphael and I make games [and tools!]
 </p>
 
-<hr>
 
 <table>
 <tr>
@@ -13,27 +12,26 @@
 
 <h2>Skills</h2>
 
-<strong>Programming</strong>
+<strong>Programming:</strong>
 
-<sup>C# • Object-Oriented Programming • Scripting</sup>
+C# • Object-Oriented Programming • Scripting
 
-<strong>Unity</strong>
+<strong>Unity:</strong>
 
-<sup>UI • Animator Controller • Animation • Audio Mixer • Timeline • Tilemaps • Rigging • In-App Purchasing</sup>
+UI • Animator Controller • Animation • Audio Mixer • Timeline • Tilemaps • Rigging • In-App Purchasing
 
+<strong>Backend & Services:</strong>
 
-<strong>Backend & Services</strong>
+Firebase Analytics • Firebase Remote Config • Google Sheets API
 
-<sup>Firebase Analytics • Firebase Remote Config • Google Sheets API</sup>
+<strong>Development Tools:</strong>
 
-<strong>Development Tools</strong>
-
-<sup>GitHub</sup>
+GitHub
 
 <hr>
 
 <h2>Contacts</h2>
-<p>Feel free to message me for inquiries and opportunities</p>
+<p>Feel free to message me for inquiries and opportunities.</p>
 
 Email: <a href="mailto:salandananry@gmail.com">salandananry@gmail.com</a>
 
@@ -53,11 +51,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/salandananry/">salandananry</a>
 
 Personal Project · Isometric Farming Game
 
-
 <strong><a href="https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/">Empeti - Quest for the Pinnacle</a></strong>
 
 Unity Developer (Generalist) · Pinnacle Studio
-
 
 <strong>Unity Translation Kit</a></strong>
 
@@ -92,5 +88,5 @@ Game Programmer Intern · Blamorama Games
 <p align="center">
   <a href="https://salandananry.carrd.co/">Carrd</a> ·
   <a href="https://salandananry.itch.io/">Itch.io</a> ·
-  <a href="https://github.com/salandananry">GitHub</a>
+  <a href="https://github.com/salandananry">GitHub</a> (You are here)
 </p>

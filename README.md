@@ -47,37 +47,44 @@ LinkedIn: <a href="https://www.linkedin.com/in/salandananry/">salandananry</a>
 
 <h3>2026</h3>
 
-<strong><a href="https://salandananry.itch.io/hearts-of-soil">Hearts of Soil</a></strong>
+<strong>Hearts of Soil</a></strong>
+<blockquote>
+  Personal Project · Isometric Farming Game
+  
+  <a href="https://salandananry.itch.io/hearts-of-soil">Itch.io
+</blockquote>
 
-Personal Project · Isometric Farming Game
+<strong>Empeti - Quest for the Pinnacle</a></strong>
+<blockquote>
+  Unity Developer (Generalist) · Pinnacle Studio
 
-<strong><a href="https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/">Empeti - Quest for the Pinnacle</a></strong>
-
-Unity Developer (Generalist) · Pinnacle Studio
+  <a href="https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/">Steam  
+</blockquote>
 
 <strong>Unity Translation Kit</a></strong>
+<blockquote>
+  Personal Project · Unity Editor Translation Tool
 
-Personal Project · Unity Editor Translation Tool
-
-[Documentation](https://github.com/salandananry/unity-translation-kit) · [GitHub Releases](https://github.com/salandananry/unity-translation-kit/releases) · [Itch.io Download](https://salandananry.itch.io/unity-translation-kit)
+  [Documentation](https://github.com/salandananry/unity-translation-kit) · [GitHub Releases](https://github.com/salandananry/unity-translation-kit/releases) · [Itch.io Download](https://salandananry.itch.io/unity-translation-kit)
+</blockquote>
 
 <hr>
 
 <h3>2025</h3>
 
 <strong>Sliding into Luleå</a></strong>
+<blockquote>
+  Game Programmer · Blamorama Games
 
-Game Programmer · Blamorama Games
-
-[Google Play](https://play.google.com/store/apps/details?id=com.blamorama.sliding) · [App Store](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508)
-
-<br>
+  [Google Play](https://play.google.com/store/apps/details?id=com.blamorama.sliding) · [App Store](https://apps.apple.com/se/app/sliding-into-lule%C3%A5/id6745172508)
+</blockquote>
 
 <strong>Bumi Cosmic Colours</a></strong>
+<blockquote>
+  Game Programmer Intern · Blamorama Games
 
-Game Programmer Intern · Blamorama Games
-
-[Google Play](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) · [App Store](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367)
+  [Google Play](https://play.google.com/store/apps/details?id=com.blamoramagames.tinypalette&hl=en) · [App Store](https://apps.apple.com/ph/app/bumi-cosmic-colors/id6746274367)
+</blockquote>
 
 </td>
 </tr>

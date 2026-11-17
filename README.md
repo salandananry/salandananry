@@ -13,20 +13,24 @@
 <h2>Skills</h2>
 
 <strong>Programming:</strong>
-
-C# • Object-Oriented Programming • Scripting
+<blockquote>
+  C# • Object-Oriented Programming • Scripting
+</blockquote>
 
 <strong>Unity:</strong>
-
-UI • Animator Controller • Animation • Audio Mixer • Timeline • Tilemaps • Rigging • In-App Purchasing
+<blockquote>
+  UI • Animator Controller • Animation • Audio Mixer • Timeline • Tilemaps • Rigging • In-App Purchasing
+</blockquote>
 
 <strong>Backend & Services:</strong>
-
-Firebase Analytics • Firebase Remote Config • Google Sheets API
+<blockquote>
+  Firebase Analytics • Firebase Remote Config • Google Sheets API
+</blockquote>
 
 <strong>Development Tools:</strong>
-
-GitHub
+<blockquote>
+  GitHub
+</blockquote>
 
 <hr>
 

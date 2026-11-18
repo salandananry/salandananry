@@ -58,18 +58,18 @@ LinkedIn: <a href="https://www.linkedin.com/in/salandananry/">salandananry</a>
   <a href="https://salandananry.itch.io/hearts-of-soil">Itch.io
 </blockquote>
 
-<strong>Empeti - Quest for the Pinnacle</a></strong>
-<blockquote>
-  Unity Developer (Generalist) · Pinnacle Studio
-
-  <a href="https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/">Steam  
-</blockquote>
-
 <strong>Unity Translation Kit</a></strong>
 <blockquote>
   Personal Project · Unity Editor Translation Tool
 
   [Documentation](https://github.com/salandananry/unity-translation-kit) · [GitHub Releases](https://github.com/salandananry/unity-translation-kit/releases) · [Itch.io Download](https://salandananry.itch.io/unity-translation-kit)
+</blockquote>
+
+<strong>Empeti - Quest for the Pinnacle</a></strong>
+<blockquote>
+  Unity Developer (Generalist) · Pinnacle Studio
+
+  <a href="https://store.steampowered.com/app/4545870/Empeti__Quest_for_the_Pinnacle/">Steam  
 </blockquote>
 
 <hr>
